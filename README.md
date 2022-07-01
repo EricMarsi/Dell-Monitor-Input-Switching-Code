@@ -1,6 +1,6 @@
 # Dell-Monitor-Input-Switching-Code
 
-This Code is related to my YouTube Video so that I could easily switch between two inputs on my Dell Display without having to press two buttons a total of two times.
+Decided that with the amount of devices that I work on that I needed a easier way to switch display inputs to my Dell Monitor on my lab bench. Instead of pressing two buttons a total of three times I need to switch inputs, this method allows me to only press one button with a bit of automation
 
 On the ATTiny85 Dev Board from DigiSpark The onboard voltage regulator needed to be removed as my input voltage is 3.3v instead of 5v
 
