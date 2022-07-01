@@ -7,10 +7,16 @@ On the ATTiny85 Dev Board from DigiSpark The onboard voltage regulator needed to
 The following Connections need to be made:
 
 GND -> GND
+
 VIN -> +3.3v
+
 P1 -> N/A Status LED
+
 P2 -> Normally Open Momentary Push Button Switch with other side to Ground
+
 P3 -> Input Select on Monitor
+
 P4 -> OK Button on Monitor
+
 
 YouTube Video for Reference:
